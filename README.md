@@ -1,16 +1,20 @@
-## Hi there 👋
+### Hello, stranger 👋👽
 
-<!--
-**rlinxxx/rlinxxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is R. Lins and I currently work as a Data Scientist Researcher. I am also a PhD student in the Computer Science area. 
 
-Here are some ideas to get you started:
+📖 What are my experiences?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ * Natural Language Processing
+ * Machine Learning and eXplainable AI
+ * Web applications to make better use of ML models
+ * Deployment of ML models to production environments
+
+🌱 What I am currently learning?
+
+* Data Engineering pipelines with Airflow
+* Cloud Computing with AWS
+* MLOps principles and components
+
+⭐ Where do I want to collaborate?
+
+* I am looking forward to work in roles as a Machine Learning Engineer
